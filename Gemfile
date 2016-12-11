@@ -25,7 +25,6 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'pry'
 gem 'faker'
-gem 'ransack'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
@@ -54,3 +53,4 @@ end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem "font-awesome-rails" 	
+gem 'bootbox-rails', '~>0.4'
